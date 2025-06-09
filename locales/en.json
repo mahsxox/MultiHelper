@@ -1,0 +1,19 @@
+{
+  "welcome": "\uD83E\uDD16: Hello! I'm MultiHelper — your assistant.\n\nTo see the list of commands, enter /help.",
+  "help": "Available commands:\n\n/start\n/help\n/language\n/weather\n/motivation\n/remind",
+  "enter_reminder_text": "\uD83D\uDCDD Please enter the reminder text.",
+  "enter_reminder_time": "⏰ Enter the reminder date and time in format DD.MM.YYYY HH:MM.",
+  "invalid_time": "Invalid date/time format. Please try again.",
+  "reminder_saved": "Reminder saved!",
+  "choose_city": "🌍 Choose a city:",
+  "city_not_found": "City not found.",
+  "error": "An error occurred while fetching the weather.",
+  "city_moscow": "Moscow",
+  "city_spb": "Saint Petersburg",
+  "weather_in": "Weather in",
+  "temperature": "Temperature",
+  "humidity": "Humidity",
+  "wind": "Wind",
+  "weather_error": "Weather retrieval error",
+  "weather_no_data": "Unable to get weather data"
+}
